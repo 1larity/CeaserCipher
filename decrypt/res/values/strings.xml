@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Caesar Cipher</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">SECOND LAW OF PLANETARY MOTION: 
+        A LINE THAT CONNECTS A PLANET TO THE SUN SWEEPS OUT EQUAL AREAS IN EQUAL TIMES</string>
+
+</resources>
